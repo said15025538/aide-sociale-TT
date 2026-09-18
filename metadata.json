@@ -1,0 +1,6 @@
+{
+  "name": "Portail Aide Sociale TT",
+  "description": "Plateforme interne de gestion et de suivi des aides sociales pour les collaborateurs de Tunisie Telecom.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
